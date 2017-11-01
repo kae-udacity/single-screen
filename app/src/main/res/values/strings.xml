@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Info</string>
+    <string name="business_name">Denver Cat Company</string>
+    <string name="business_address">\n3929 Tennyson St,\nDenver,\nCO 80212,\nUSA</string>
+    <string name="business_phone">+1 303-433-3422</string>
+    <string name="cat">cat</string>
+</resources>
